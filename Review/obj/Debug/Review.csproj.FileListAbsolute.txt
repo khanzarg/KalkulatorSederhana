@@ -1,0 +1,7 @@
+D:\BOOTCAMP\Review\Review\bin\Debug\Review.exe.config
+D:\BOOTCAMP\Review\Review\bin\Debug\Review.exe
+D:\BOOTCAMP\Review\Review\bin\Debug\Review.pdb
+D:\BOOTCAMP\Review\Review\obj\Debug\Review.csprojAssemblyReference.cache
+D:\BOOTCAMP\Review\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\Review\Review\obj\Debug\Review.exe
+D:\BOOTCAMP\Review\Review\obj\Debug\Review.pdb
